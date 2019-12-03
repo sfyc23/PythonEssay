@@ -9,7 +9,7 @@
 
 ### 项目地址
 
-Github:
+Github: https://github.com/sfyc23/PythonEssay/tree/master/novel_update
 
 ### 数据来源
 
