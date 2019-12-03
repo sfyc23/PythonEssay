@@ -177,10 +177,10 @@ if __name__ == '__main__':
     # 需要追更的小说
     novel_name_list = ['诡秘之主']
 
-    email_user = 'sfyc23@qq.com'
-    email_password = 'yxayleefbersbjeg'
+    email_user = 'xx@qq.com'
+    email_password = '代理密码'
     email_host = 'smtp.qq.com'
-    to_emails = ['sfyc23@qq.com']  # 需要发送的邮箱，可以多个。
+    to_emails = ['yy@qq.com']  # 需要发送的邮箱，可以多个。
 
     try:
         yag = yagmail.SMTP(user=email_user, password=email_password, host=email_host)
