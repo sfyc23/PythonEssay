@@ -1,0 +1,5 @@
+requests
+apscheduler
+yagmail
+BeautifulSoup
+fake_useragent
