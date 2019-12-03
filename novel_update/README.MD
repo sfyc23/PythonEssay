@@ -72,9 +72,9 @@ if resp.status_code == 200:
     latest_chapter_url = "{}{}".format(base_url, latest_chapter_url)
     print(latest_chapter_name, latest_chapter_url)
 ```
-得到：
-章节名：第五部总结兼请假兼求保底月票 
-章节地址：https://www.5atxt.com/1_1409/14584779.html
+得到：  
+章节名：第五部总结兼请假兼求保底月票   
+章节地址：https://www.5atxt.com/1_1409/14584779.html  
 
 
 ### 小说阅读页
