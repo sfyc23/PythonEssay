@@ -62,14 +62,23 @@ class 名为 "inlineFree" 节点就一个，所以那就简单了。
 voide_title = browser.find_element_by_class_name("inlineFree").text
 ```
  
- 留下的也就没什么好说的了。（P 站没有梯子是过不去的）
+留下的也就没什么好说的了。（P 站没有梯子是过不去的）  
  
- 项目完整代码地址： 
+ ---  
  
-项目运行：
+项目完整代码地址： https://github.com/sfyc23/PythonEssay/tree/master/pronhub_download_url  
+ 
+项目运行：  
 ```
 python pronhub_url.py "https://www.pornhub.com/view_video.php?viewkey=ph5c07b7ed1777b"
 ```
 运行结果：
 
 ![](https://raw.githubusercontent.com/sfyc23/image/master/vlog/P%E7%AB%99%E5%AD%A6%E4%B9%A0%E8%BF%90%E8%A1%8C.png)
+
+---
+
+文章与代码参考：https://mp.weixin.qq.com/s/yMxyYOcdQZMseMqhjCploQ  
+
+如果你觉得用代码比较麻烦也有谷歌插件一键下载。地址：http://1t.click/bpmG  
+
